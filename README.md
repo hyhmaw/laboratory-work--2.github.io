@@ -1,2 +1,2 @@
-# laboratory-work-2.github.io
+# laboratory-work-1.github.io
 FAX Laboratory work  №2
